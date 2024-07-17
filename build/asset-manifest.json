@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cakewebsite_Reactjs/static/css/main.a4d42bcb.css",
+    "main.js": "/Cakewebsite_Reactjs/static/js/main.7b1d83b1.js",
+    "static/js/453.0e4e3126.chunk.js": "/Cakewebsite_Reactjs/static/js/453.0e4e3126.chunk.js",
+    "index.html": "/Cakewebsite_Reactjs/index.html",
+    "main.a4d42bcb.css.map": "/Cakewebsite_Reactjs/static/css/main.a4d42bcb.css.map",
+    "main.7b1d83b1.js.map": "/Cakewebsite_Reactjs/static/js/main.7b1d83b1.js.map",
+    "453.0e4e3126.chunk.js.map": "/Cakewebsite_Reactjs/static/js/453.0e4e3126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d42bcb.css",
+    "static/js/main.7b1d83b1.js"
+  ]
+}
